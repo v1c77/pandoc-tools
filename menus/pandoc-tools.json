@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle pandoc-tools",
+        "label": "pandoc-tools",
         "command": "pandoc-tools:toggle"
       }
     ]
