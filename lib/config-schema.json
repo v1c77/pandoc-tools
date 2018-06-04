@@ -1,0 +1,7 @@
+{
+  "paneLocation": {
+    "description": "right or left of pane",
+    "type": "string",
+    "default": "right"
+  }
+}
